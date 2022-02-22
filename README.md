@@ -12,5 +12,6 @@ It was written in Python using a bunch of libraries while I was in the queue so 
 ### TODO:
 - Make it easier to install everything
 - Move any user-adjustable settings to a config file
+- Update the bot to give you some instructions/important details on the first run
 - Edit some of the functions to work more safely and fail-proof
 - Properly write this readme file
